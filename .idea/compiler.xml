@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="teamcity" />
+        <module name="devops" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="teamcity" target="1.8" />
+      <module name="devops" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
