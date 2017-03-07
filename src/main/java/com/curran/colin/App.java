@@ -1,15 +1,11 @@
 package com.curran.colin;
 
-import java.util.Scanner;
-
 /**
- * Hello world!
+ * Hello world App with TeamCity integration!
  *
  */
 public class App {
     public static void main( String[] args ) {
-
-        Scanner in = new Scanner(System.in);
 
         int a = 11;
         int b = 6;

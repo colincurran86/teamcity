@@ -37,7 +37,9 @@ public class AppTest
     }
 
     public void testMin() throws Exception {
-        App a = new App();
+        //App a = new App();
         assertEquals("Min should be 6",6, App.minFunction(11,6));
     }
+
+
 }
