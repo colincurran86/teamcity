@@ -22,7 +22,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8e4aa89-67ad-4014-a8a0-f0eb8576c6e0" name="Default" comment="testing slack notifier">
+    <list default="true" id="e8e4aa89-67ad-4014-a8a0-f0eb8576c6e0" name="Default" comment="testing slack notifier again">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="devops.iws" />
@@ -53,8 +53,8 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/curran/colin/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+            <state relative-caret-position="476">
+              <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -820,7 +820,7 @@
       <workItem from="1488372572872" duration="1100000" />
       <workItem from="1488376059796" duration="4296000" />
       <workItem from="1488899325284" duration="10748000" />
-      <workItem from="1490109440736" duration="2833000" />
+      <workItem from="1490109440736" duration="3404000" />
     </task>
     <task id="LOCAL-00001" summary="working build">
       <created>1488372777481</created>
@@ -857,7 +857,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490114466446</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testing slack notifier again">
+      <created>1490115357515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490115357515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -893,7 +900,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18977000" />
+    <option name="totallyTimeSpent" value="19548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -975,7 +982,8 @@
     <MESSAGE value="added Calculator class and test class" />
     <MESSAGE value="updated test arithmetic test methods" />
     <MESSAGE value="testing slack notifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing slack notifier" />
+    <MESSAGE value="testing slack notifier again" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing slack notifier again" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1080,8 +1088,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/curran/colin/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state relative-caret-position="476">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
           <folding />
         </state>
       </provider>
